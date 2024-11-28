@@ -1,6 +1,6 @@
 # Temple-Run-Motion-Controlled
 
-I developed temple run  Motion Controlled using the Mediapie and Movente libraries, which enables you to play the popular game Temple Run using your webcam as a controller. This project leverages a range of cutting-edge algorithms to ensure swift and precise motion detection. It was initially designed for presentation at the NIIMACK Cultural Fest hosted by IIIT Bhopal. Here's a rephrased and more detailed description that you can post on GitHub:
+I developed temple run  Motion Controlled using the Mediapie and Movente libraries, which enables you to play the popular game Temple Run using your webcam as a controller. This project leverages a range of cutting-edge algorithms to ensure swift and precise motion detection. It was initially designed for presentation at the AAGAMAN 2.0 hosted by MBCOE . Here's a rephrased and more detailed description that you can post on GitHub:
 
 **Temple Run Motion Controlled**
 
